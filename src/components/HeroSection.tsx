@@ -20,7 +20,7 @@ function HeroSection() {
           skills, join us to unlock your true potential.
         </p>
         <div className='mt-4'>
-          <Link href={'/courses'}>
+          <Link href={'/all-courses'}>
             <Button
               borderRadius='1.75rem'
               className='bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800'
