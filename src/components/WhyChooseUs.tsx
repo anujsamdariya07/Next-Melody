@@ -27,7 +27,7 @@ const content = [
 
 function WhyChooseUs() {
   return (
-    <div>
+    <div className='h-auto'>
       <StickyScroll content={content} />
     </div>
   );
