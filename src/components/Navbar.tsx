@@ -61,7 +61,7 @@ export default function Navbar() {
   return (
     <div className='w-full'>
       <FloatingNav navItems={navItems} />
-    </div>x
+    </div>
   );
 }
 // const DummyContent = () => {
