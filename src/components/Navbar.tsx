@@ -59,9 +59,9 @@ export default function Navbar() {
     },
   ];
   return (
-    <div className='relative  w-full h-screen'>
+    <div className='w-full'>
       <FloatingNav navItems={navItems} />
-    </div>
+    </div>x
   );
 }
 // const DummyContent = () => {
